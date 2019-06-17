@@ -1,0 +1,8 @@
+# github.com/danieljoos/wincred v1.0.2
+github.com/danieljoos/wincred
+# github.com/docker/docker-credential-helpers v0.6.2
+github.com/docker/docker-credential-helpers/credentials
+github.com/docker/docker-credential-helpers/osxkeychain
+github.com/docker/docker-credential-helpers/pass
+github.com/docker/docker-credential-helpers/wincred
+github.com/docker/docker-credential-helpers/registryurl

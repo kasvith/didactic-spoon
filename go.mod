@@ -1,4 +1,4 @@
-module github.com/kasvith/awesomeProject1
+module github.com/kasvith/didactic-spoon
 
 go 1.12
 

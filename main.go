@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kasvith/awesomeProject1/nativestore"
+	"github.com/kasvith/didactic-spoon/nativestore"
 	"log"
 )
 
